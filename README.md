@@ -111,6 +111,20 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Graphics
 
+* [Plotting for Julia based on GR, a framework for visualisation applications](https://github.com/jheinen/GR.jl)
+
+* [Fast, interactive Julia/GTK+ plots (+Smith charts +Gtk widget +Cairo-only images)](https://github.com/ma-laforge/InspectDR.jl)
+
+* [Julia library for plotting with plotly.js](https://github.com/JuliaPlots/PlotlyJS.jl)
+
+* [Plotting for Julia based on matplotlib.pyplot](https://github.com/JuliaPy/PyPlot.jl)
+
+* [Create plots in Julia using the PGFPlots LaTeX package](https://github.com/KristofferC/PGFPlotsX.jl)
+
+* [Unicode-based scientific plotting for working in the terminal](https://github.com/Evizero/UnicodePlots.jl)
+
+* [Saving and loading data in the HDF5 file format](https://github.com/JuliaIO/HDF5.jl)
+
 
 ### REPL
 

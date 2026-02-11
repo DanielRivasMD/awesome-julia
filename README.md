@@ -80,6 +80,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
   * [Basic statistics for Julia](https://github.com/JuliaStats/StatsBase.jl)
 
+  * [An optimized graphs package for the Julia programming language](https://github.com/JuliaGraphs/Graphs.jl)
 
 ## Utilities
 

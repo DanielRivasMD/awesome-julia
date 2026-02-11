@@ -13,9 +13,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
     - [Rust](#rust)
   - [Learning](#learning)
   - [Libraries](#libraries)
-    - [Artificial Intelligence](#artificial-intelligence)
-      - [Machine Learning](#machine-learning)
     - [Julia Self](#julia-self)
+    - [Machine Learning](#machine-learning)
     - [Math](#math)
   - [Utilities](#utilities)
     - [Data Structures](#data-structures)
@@ -55,10 +54,12 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Libraries
 
 
-### Artificial Intelligence
+### Julia Self
+
+  * [The Julia Language: A fresh approach to technical computing](https://github.com/JuliaLang/julia)
 
 
-#### Machine Learning
+### Machine Learning
 
   * [Relax! Flux is the ML library that doesn't make you tensor](https://github.com/FluxML/Flux.jl)
 
@@ -71,11 +72,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [A Julia wrapper for TensorFlow](https://github.com/malmaud/TensorFlow.jl)
 
   * [Hidden Markov Models for Julia](https://github.com/maxmouchet/HMMBase.jl)
-
-
-### Julia Self
-
-  * [The Julia Language: A fresh approach to technical computing](https://github.com/JuliaLang/julia)
 
 
 ### Math
@@ -139,3 +135,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 
 ## License
+
+This package is licensed under the MIT Expat license. See [LICENSE](LICENSE) for more informaiton.
+
+---
+
+**Author's Note**: This package is still under active development and is subject to change.
+
